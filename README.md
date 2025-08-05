@@ -19,6 +19,7 @@ On the software side, the main development tool is the Arduino IDE. This is a cr
 
 In summary, the Home Automation with Bluetooth project leverages a combination of hardware tools (Arduino Uno, HC-05, relay module, smartphone) and software platforms (Arduino IDE, mobile apps, and circuit simulation tools like Proteus or Tinkercad) to create an efficient, flexible, and scalable wireless home control system.
 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/6a395e2c-73cd-434e-9c4a-be9feae42a9c)
 
       
 
